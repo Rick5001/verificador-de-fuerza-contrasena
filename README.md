@@ -25,7 +25,7 @@ Este proyecto analiza y clasifica la seguridad de una contraseña basándose en 
 
 ---
 
-## 🧠 Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - **Python 3**
 - Librerías estándar:
