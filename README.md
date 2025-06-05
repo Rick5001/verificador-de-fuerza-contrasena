@@ -1,4 +1,4 @@
-#  Verificador de Fuerza de Contraseñas – Python
+#  Verificador de Fuerza de Contraseñas 
 
 Este proyecto analiza y clasifica la seguridad de una contraseña basándose en criterios fundamentales de autenticación segura. Evalúa la presencia de mayúsculas, minúsculas, números, símbolos, longitud mínima y además detecta patrones débiles como **sucesiones consecutivas** (`abc`, `123`, etc.).
 
